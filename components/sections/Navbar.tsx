@@ -72,7 +72,7 @@ export default function Navbar() {
         <div className="hidden lg:flex items-center gap-3 shrink-0">
           <a
             href={PHONE_HREF}
-            className="text-amber-400 font-semibold text-sm hover:text-amber-300 transition-colors whitespace-nowrap flex items-center gap-1.5"
+            className="text-black font-semibold text-sm hover:text-amber-300 transition-colors whitespace-nowrap flex items-center gap-1.5"
           >
             <Phone size={14} />
             {PHONE}
