@@ -32,74 +32,76 @@ const stackSansNotch = localFont({
 });
 
 export const metadata: Metadata = {
-  title:
-    "Boneso Plumbing & Mechanical | Plumbing, HVAC & Mechanical Services in Paso Robles, CA",
+  title: "High Desert Air Ductor | HVAC Services in Indian Wells Valley, CA",
 
   icons: {
-    icon: "/images/logo.png",
-    shortcut: "/images/logo.png",
-    apple: "/images/logo.png",
+    icon: "/images/navlogo.png",
+    shortcut: "/images/navlogo.png",
+    apple: "/images/navlogo.png",
   },
 
   description:
-    "Boneso Plumbing & Mechanical provides professional plumbing, HVAC, mechanical and construction solutions for residential, commercial and construction projects in Paso Robles, California.",
+    "High Desert Air Ductor provides reliable heating, air conditioning, HVAC repair, installation, maintenance, and indoor air quality services for homes and businesses throughout Indian Wells Valley, California.",
 
   keywords: [
-    "Boneso Plumbing & Mechanical",
-    "Boneso Plumbing",
-    "Boneso Mechanical",
-    "Boneso Plumbing Paso Robles",
-    "plumbing contractor Paso Robles",
-    "plumbing company Paso Robles",
-    "plumber Paso Robles",
-    "plumbing services Paso Robles",
-    "commercial plumbing Paso Robles",
-    "residential plumbing Paso Robles",
-    "HVAC contractor Paso Robles",
-    "HVAC company Paso Robles",
-    "HVAC services Paso Robles",
-    "heating and cooling Paso Robles",
-    "mechanical contractor Paso Robles",
-    "mechanical services Paso Robles",
-    "mechanical construction Paso Robles",
-    "commercial mechanical contractor",
-    "construction company Paso Robles",
-    "commercial construction Paso Robles",
-    "construction services Paso Robles",
-    "building mechanical systems",
-    "plumbing and mechanical contractor",
-    "plumbing HVAC mechanical contractor",
-    "mechanical systems contractor California",
-    "HVAC plumbing construction California",
-    "San Luis Obispo County plumbing",
-    "San Luis Obispo County HVAC",
-    "Paso Robles construction contractor",
+    "High Desert Air Ductor",
+    "High Desert Air Doctor",
+    "High Desert Air Ductor HVAC",
+    "HVAC Indian Wells Valley",
+    "HVAC contractor Indian Wells Valley",
+    "HVAC company Indian Wells Valley",
+    "HVAC services Indian Wells Valley",
+    "HVAC repair Indian Wells Valley",
+    "AC repair Indian Wells Valley",
+    "air conditioning repair Indian Wells Valley",
+    "heating repair Indian Wells Valley",
+    "heating contractor Indian Wells Valley",
+    "air conditioning contractor Indian Wells Valley",
+    "HVAC installation Indian Wells Valley",
+    "HVAC replacement Indian Wells Valley",
+    "HVAC maintenance Indian Wells Valley",
+    "indoor air quality Indian Wells Valley",
+    "heating and cooling Indian Wells Valley",
+    "HVAC contractor Ridgecrest CA",
+    "HVAC company Ridgecrest CA",
+    "HVAC repair Ridgecrest CA",
+    "AC repair Ridgecrest CA",
+    "heating repair Ridgecrest CA",
+    "air conditioning Ridgecrest CA",
+    "HVAC installation Ridgecrest CA",
+    "HVAC maintenance Ridgecrest CA",
+    "HVAC contractor Inyokern CA",
+    "HVAC services Inyokern CA",
+    "AC repair Inyokern CA",
+    "heating repair Inyokern CA",
+    "HVAC contractor Kern County CA",
+    "HVAC services Kern County CA",
   ],
 
   authors: [
     {
-      name: "Boneso Plumbing & Mechanical",
+      name: "High Desert Air Ductor",
     },
   ],
 
-  creator: "Boneso Plumbing & Mechanical",
-  publisher: "Boneso Plumbing & Mechanical",
-  applicationName: "Boneso Plumbing & Mechanical",
+  creator: "High Desert Air Ductor",
+  publisher: "High Desert Air Ductor",
+  applicationName: "High Desert Air Ductor",
 
-  category: "Plumbing, HVAC & Mechanical Construction",
+  category: "HVAC Services",
 
-  metadataBase: new URL("https://boneso-pm.com"),
+  metadataBase: new URL("https://your-domain.com"),
 
   openGraph: {
     title:
-      "Boneso Plumbing & Mechanical | Plumbing, HVAC & Mechanical Services",
+      "High Desert Air Ductor | Reliable HVAC Services in Indian Wells Valley",
 
     description:
-      "Professional plumbing, HVAC, mechanical and construction solutions delivered with precision, reliability and purpose in Paso Robles, California.",
+      "Reliable heating, cooling, HVAC repair, installation, maintenance, and indoor air quality solutions for homes and businesses throughout Indian Wells Valley, California.",
 
-    url: "https://boneso-pm.com",
+    url: "https://your-domain.com",
 
-    siteName: "Boneso Plumbing & Mechanical",
+    siteName: "High Desert Air Ductor",
 
     locale: "en_US",
 
@@ -109,10 +111,10 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
 
-    title: "Boneso Plumbing & Mechanical | Paso Robles, CA",
+    title: "High Desert Air Ductor | HVAC Services in Indian Wells Valley",
 
     description:
-      "Professional plumbing, HVAC, mechanical and construction solutions for residential, commercial and construction projects in Paso Robles, California.",
+      "Reliable HVAC repair, installation, maintenance, heating, cooling, and indoor air quality services throughout Indian Wells Valley, California.",
   },
 
   robots: {
